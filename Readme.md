@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml.cs](./CS/CustomFunctionReturningArrayExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CustomFunctionReturningArrayExample/MainWindow.xaml.vb))
+* [TestArrayCustomFunction.cs](./CS/CustomFunctionReturningArrayExample/TestArrayCustomFunction.cs) (VB: [TestArrayCustomFunction.vb](./VB/CustomFunctionReturningArrayExample/TestArrayCustomFunction.vb))
+<!-- default file list end -->
 # UDF (Custom Function) - A sample custom function that returns an array
 
 
